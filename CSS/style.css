@@ -33,7 +33,7 @@ main {
   border: 4px solid rgb(255, 255, 255);
   background-color: white;
   position: absolute;
-  top: 38%;
+  top: 43%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
