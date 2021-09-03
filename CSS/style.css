@@ -78,7 +78,7 @@ b {
   height: 85px;
   align-items: center;
 }
-.sub-content2 p {
+.sub-content2 div {
   color: hsl(0, 0%, 59%);
   font-size: 12px;
 }
