@@ -94,7 +94,7 @@ footer {
   transform: translate(-50%, -50%);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 414px) {
   .bg-pattern-top {
     position: absolute;
     top: -600px;
@@ -103,8 +103,8 @@ footer {
   }
   .bg-pattern-bottom {
     position: absolute;
-    bottom: -700px;
-    right: -600px;
+    bottom: -600px;
+    right: -750px;
     z-index: -1;
   }
 }
