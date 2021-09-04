@@ -35,11 +35,12 @@ main {
   background-color: white;
   width: 350px;
   height: 380px;
-  border-radius: 20px;
+  border-radius: 15px;
+  box-shadow: 0 50px 50px rgba(0, 0, 0, 0.2);
 }
 .header-card {
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
 }
 .content {
   margin-top: 4rem;
