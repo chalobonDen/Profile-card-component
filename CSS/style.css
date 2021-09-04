@@ -77,14 +77,18 @@ b {
   justify-content: space-evenly;
   height: 85px;
   align-items: center;
+
+  border-style: solid hidden hidden;
+  border-color: hsl(0, 0%, 90%);
+  border-width: 1px;
 }
 .sub-content2 div {
   color: hsl(0, 0%, 59%);
   font-size: 12px;
 }
-hr {
+/* hr {
   border-top: 0px solid hsl(0, 0%, 78%);
-}
+} */
 
 footer {
   z-index: 2;
